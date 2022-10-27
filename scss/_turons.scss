@@ -1,0 +1,143 @@
+.turon__title {
+  text-align: center;
+}
+.turon__title h1 {
+  font-family: "Open Sans";
+  padding: 17px 722px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  font-weight: 800;
+  font-size: 64px;
+  color: #25317b;
+}
+.turon__title p {
+  width: 1024px;
+  height: 350px;
+  margin: 0 auto;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 66px;
+  color: #25317b;
+}
+.turon__block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
+.turon__block--items {
+  width: 729.96px;
+  height: 504.02px;
+  border-radius: 0px;
+  background-repeat: no-repeat;
+}
+.block1 {
+  background-image: url("../imgs/bacraund/turon1-bg.png");
+}
+.block2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  background-image: url("../imgs/bacraund/turontext_1.png");
+}
+.block3 {
+  background-image: url("../imgs/bacraund/turon2_bg.png");
+}
+.block4 {
+  background-image: url("../imgs/bacraund/turon3_bg.png");
+}
+.block5 {
+  background-image: url("../imgs/bacraund/turon4_bg.png");
+}
+.block6 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+  background-image: url("../imgs/bacraund/turontext_2.png");
+}
+.block7 {
+  background-image: url("../imgs/bacraund/turon5_bg.png");
+}
+.block8 {
+  background-image: url("../imgs/bacraund/turon6_bg.png");
+}
+.turon__block--items {
+  text-align: center;
+}
+
+.block2 h2 {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 800;
+  font-size: 96px;
+  color: #fff;
+  line-height: 131px;
+}
+.block2 p {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 52px;
+  color: #fff;
+  padding: 0 50px;
+  padding-bottom: 40px;
+  /* or 162% */
+}
+
+.block6 h2 {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 800;
+  font-size: 96px;
+  color: #fff;
+  line-height: 131px;
+}
+.block6 p {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 52px;
+  padding: 0 98px;
+  padding-bottom: 40px;
+  /* or 162% */
+}
+.turon__hero {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.turon__hero img {
+  width: 1540px;
+  padding-left: 328px;
+}
+.turon__hero h3 {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 80px;
+    line-height: 90px;
+    padding: 0 460px;
+    color: #d42117;
+    margin-bottom: 40px;
+}
+.turon__hero p{
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 69px;
+    width: 1818px;
+    height: 346px;
+    text-align: center;
+    padding: 0 331px;
+    color: #D42117;
+}
